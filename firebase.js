@@ -2,13 +2,13 @@
 // Initialize Firebase and export _9jaCash global for all pages
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBBcBrcVKyYDq3aoE_QtrgPdlVQlQldZbw",
-  authDomain: "ghanacashmine2.firebaseapp.com",
-  projectId: "ghanacashmine2",
-  storageBucket: "ghanacashmine2.firebasestorage.app",
-  messagingSenderId: "404873267052",
-  appId: "1:404873267052:web:19b30cfb3553a47f60d549",
-  measurementId: "G-2YFSM08FPF"
+  apiKey: "AIzaSyAR4fdcmPhRZC8-3bFZhcDCJZg92LWTHMI",
+  authDomain: "ghcash-bignoni.firebaseapp.com",
+  projectId: "ghcash-bignoni",
+  storageBucket: "ghcash-bignoni.firebasestorage.app",
+  messagingSenderId: "643909968136",
+  appId: "1:643909968136:web:211c5e6fa915a64d7bccbd",
+  measurementId: "G-KYGYHC7MEB"
 };
 
 
